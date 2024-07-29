@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Dmitriy and I'm a Front-end developer, from Ukraine</h2>
 
 ###
 
@@ -8,6 +8,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://i.gifer.com/Ao.gif"  />
 
@@ -41,11 +43,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DmitriyNazarchuk/DmitriyNazarchuk/output/snake.svg" alt="Snake animation" />
 
 ###
