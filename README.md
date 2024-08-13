@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">✨ Creating bugs since 2023<br>📚 I am currently learning English         and React Native<br>🎯 Goals: Mastering full-stack development <br>🎲And I play on the Playstation</p>
 
 ###
