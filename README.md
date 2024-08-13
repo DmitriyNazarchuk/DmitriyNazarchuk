@@ -4,9 +4,6 @@
 
 <p align="left">My name is Dmitriy and I'm a Front-end developer, from Ukraine</p>
 
-
-<br clear="both">
-
 <h2 align="left">About me</h2>
 
 ###
